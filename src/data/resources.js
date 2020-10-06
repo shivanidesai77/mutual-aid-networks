@@ -358,3 +358,10 @@ export const resourceList = [
     ]
   },
 ]
+  name: {
+          english: 'CDC Eviction Moratorium Factsheet',
+     },
+        link: 'https://nlihc.org/sites/default/files/CDC-Eng_2-2.pdf',
+        description: { find critical information for on the national eviction moratorium and tenants rights here
+          english: 'From National Low Income Housing Coalition',
+
